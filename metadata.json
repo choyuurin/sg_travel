@@ -1,0 +1,8 @@
+{
+  "name": "Remix SG Travel",
+  "description": "Singapore travel companion featuring Wanderlog-lite day-by-day itinerary planner, curated starter templates, live weather telemetry, live SGD currency exchange, crowd status, carpark availability, MRT route finder, and local guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
